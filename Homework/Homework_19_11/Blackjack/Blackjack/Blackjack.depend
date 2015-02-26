@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1417510228 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\main.cpp
+	<iostream>
+	<string>
+	"stringHandling.h"
+	"Card.h"
+	"DeckCards.h"
+	"Blackjack.h"
+	<vector>
+
+1416847352 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\stringhandling.h
+	<string>
+
+1416853668 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\stringhandling.cpp
+	"stringHandling.h"
+	<sstream>
+	<algorithm>
+	<cctype>
+	<string>
+
+1417452889 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\card.cpp
+	"Card.h"
+	"stringHandling.h"
+	<string>
+	<stdexcept>
+	<cctype>
+
+1416852084 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\card.h
+	<string>
+
+1416859813 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\deckcards.cpp
+	"DeckCards.h"
+	"Card.h"
+	<algorithm>
+	<vector>
+	<stdexcept>
+
+1416859854 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\deckcards.h
+	<vector>
+	"Card.h"
+
+1417476908 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\blackjackhand.cpp
+	"BlackjackHand.h"
+	"Card.h"
+	<iostream>
+
+1417478179 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\blackjackhand.h
+	"Card.h"
+	<vector>
+
+1417478048 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\blackjack.h
+	"Card.h"
+	"DeckCards.h"
+	"BlackjackHand.h"
+	<vector>
+	<iostream>
+
+1417478341 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\blackjack.cpp
+	"Blackjack.h"
+	"Card.h"
+	<vector>
+	<iostream>
+	<stdexcept>
+

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1420475376 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\animalshelter\main.cpp
+	<iostream>
+	"Animal.h"
+	"Dog.h"
+	"Cat.h"
+	"AnimalData.h"
+
+1420472777 c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\animalshelter\include\animal.h
+	<string>
+	<iostream>
+
+1420310261 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\animalshelter\src\animal.cpp
+	"Animal.h"
+
+1420474608 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\animalshelter\src\dog.cpp
+	"Dog.h"
+	<iostream>
+
+1420387471 c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\animalshelter\include\dog.h
+	<Animal.h>
+
+1420459227 c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\animalshelter\include\cat.h
+	<Animal.h>
+
+1420459267 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\animalshelter\src\cat.cpp
+	"Cat.h"
+	<iostream>
+	<string>
+
+1420472500 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\animalshelter\animaldata.cpp
+	"Animal.h"
+	"AnimalData.h"
+	"Dog.h"
+	"Cat.h"
+	<iostream>
+	<vector>
+
+1420474573 c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\animalshelter\animaldata.h
+	"Animal.h"
+	<vector>
+	<algorithm>
+	<stdexcept>
+

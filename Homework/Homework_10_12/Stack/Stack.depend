@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418323279 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\stack\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+

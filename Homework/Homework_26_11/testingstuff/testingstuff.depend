@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1421583035 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_26_11\testingstuff\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string>
+	<ctime>
+	<algorithm>
+

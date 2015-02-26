@@ -1,0 +1,2 @@
+ Select tenants, tenantID, tenantName, count(*) as c from InfoTable having c > 1
+ Select buildings, count(*) as c from InfoTable where status = open

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\onlinebookreader\main.cpp
+	<iostream>
+
+1420580756 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\onlinebookreader\library.cpp
+	"Library.h"
+	<algorithm>
+
+1420585137 c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\onlinebookreader\library.h
+	"Book.h"
+	<vector>
+	<iostream>
+
+1420584793 c:\users\silvia\dropbox\software development tutoring\homework\homework_10_12\onlinebookreader\book.h
+	<string>
+	<iostream>
+

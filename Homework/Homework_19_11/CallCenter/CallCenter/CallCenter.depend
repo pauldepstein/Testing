@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1417519546 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\callcenter\callcenter\dispatchcall.cpp
+	"Manager.h"
+	"Director.h"
+	"Employee.h"
+	<string>
+
+1416911392 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\callcenter\callcenter\manager.h
+	"Employee.h"
+	<string>
+	<iostream>
+	<cstdlib>
+
+1418206331 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\callcenter\callcenter\employee.h
+	<string>
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1416911412 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\callcenter\callcenter\director.h
+	"Employee.h"
+	<string>
+	<iostream>
+	<stdexcept>
+
+1418147122 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\callcenter\callcenter\main.cpp
+	<iostream>
+	"Call.h"
+
+1416909708 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\callcenter\callcenter\dispatchcall.h
+
+1418146874 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\callcenter\callcenter\call.cpp
+	"Manager.h"
+	"Director.h"
+	"Call.h"
+	"Employee.h"
+	<string>
+
+1418146836 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\callcenter\callcenter\call.h
+	<string>
+

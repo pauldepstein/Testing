@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1416853668 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\stringhandling.cpp
+	"stringHandling.h"
+	<sstream>
+	<algorithm>
+	<cctype>
+	<string>
+
+1416847352 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\stringhandling.h
+	<string>
+
+1416847352 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\blackjack\blackjack\stringhandling.h
+	<string>
+
+1416929219 source:c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\jukebox\jukebox\main.cpp
+	<iostream>
+	"Playlist.h"
+	"Song.h"
+	<string>
+	<vector>
+
+1416928708 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\jukebox\jukebox\playlist.h
+	<vector>
+	<algorithm>
+	"Song.h"
+	<iostream>
+	<stdexcept>
+
+1416929341 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\jukebox\jukebox\song.h
+	<string>
+	<iostream>
+	"stringHandling.h"
+
+1416847352 c:\users\silvia\dropbox\software development tutoring\homework\homework_19_11\jukebox\jukebox\stringhandling.h
+	<string>
+
