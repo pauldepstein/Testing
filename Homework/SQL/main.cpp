@@ -140,6 +140,8 @@ int main(int argc, char* argv[])
    sqlite3_close(db);
 }
 
+// A spurious comment to test Git source control.
+
 
 
 
